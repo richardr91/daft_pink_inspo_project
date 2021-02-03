@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "sourceRoot": "",
+    "sources": [
+        "../src/styles/_reset.scss",
+        "../src/styles/_globals.scss",
+        "../src/styles/_typography.scss",
+        "../src/styles/_variables.scss",
+        "../src/styles/_motion.scss",
+        "../src/styles/_container-n-blocks.scss",
+        "../src/styles/_mixins.scss"
+    ],
+    "names": [],
+    "mappings": "AACA;AAAA;AAAA;EAGE;EACA;EACA;;;ACJF;EACI;EACA;EAOA;EACA;EACA;EACA;;;ACZJ;EACI;EACA;EACA,OCGU;EDFV;EACA;;;AENJ;EACC;IACC;IACA;;EAED;IACC;;EAED;IACC;;EAED;IACC;;EAED;IACC;IACA;;;AAGF;EACC;IACC;IACA;;EAED;IACC;;EAED;IACC;;EAED;IACC;;EAED;IACC;IACA;;;AAIF;EACC;IACC;IACA;;EAED;IACC;;EAED;IACC;;EAED;IACC;;EAED;IACC;IACA;;;AAIF;EACC;IACC;IACA;;EAED;IACC;;EAED;IACC;;EAED;IACC;;EAED;IACC;IACA;;;AAIF;EACC;IACC;IACA;;EAED;IACC;IACA;;;AAIF;EACC;IACC;IACA;;EAED;IACC;IACA;;;AChGF;AAEA;EACC;;AACA;ECJG;EACA;EACA;EACA;EDGF;EACA;EACA;EACA;EACA;EACA;AAAY;;;AAKd;ECRI;EACA;EACA;EACA;EACA;EDMH;EACA;EACA;EACA;EACA;EACA;;AACA;EACC;EACA;EACA;;;AAKF;EACC;EACA;EACA;EACA;EACA;EACA;;;AAED;EACC;EACA;EACA;EACA;EACA;;;AAGD;EACC;EACA;EACA;EACA;EACA;EACA;;;AAGD;EACI,kBFtDQ;EEuDR;EACA;EACA;;;AAGF;EACE;EACA;EACA;EACA;EACA;EACQ;EACR;EACA;EACA;EACA;EACQ;;;AAGV;EACE,kBF1Ec;EE2Ed;EACA;EACA",
+    "file": "main.css"
+}
